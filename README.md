@@ -1,7 +1,5 @@
-fbclick
-=======
-
 facebook – like clickjacking
+=======
 
 EXAMPLE:
 ```javascript
